@@ -10,7 +10,7 @@ export default class Solutiondevopstest extends React.Component<ISolutiondevopst
         <div className="${ styles.container }">
           <div className="${ styles.row }">
             <div className="${ styles.column }">
-              <span className="${ styles.title }">Welcome to SharePoint!</span>
+              <span className="${ styles.title }">Welcome to SharePoint Framework Solution Kalrav!</span>
               <p className="${ styles.subTitle }">Customize SharePoint experiences using web parts.</p>
               <p className="${ styles.description }">${escape(this.props.description)}</p>
               <p className="${ styles.description }">${escape(this.props.test)}</p>
