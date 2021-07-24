@@ -2,6 +2,7 @@
 # Configuration #
 #################
 dasdasdgasdg
+KL<FLKSLKSL
 fhsdfhsdfhsdfhsdfh
 $catalogSite = "https://kpshuklasharepointlearning.sharepoint.com/sites/appcatalog" # => App Catalog site
 #######
