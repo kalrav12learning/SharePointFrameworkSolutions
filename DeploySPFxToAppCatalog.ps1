@@ -1,11 +1,11 @@
 #################
 # Configuration #
 #################
-$catalogSite = "https://giuleon.sharepoint.com/sites/apps" # => App Catalog site
+$catalogSite = "https://kpshuklasharepointlearning.sharepoint.com/sites/appcatalog" # => App Catalog site
 #######
 # End #
 #######
-
+hfghfdh hd fhfdh
 Write-Host ***************************************** -ForegroundColor Yellow
 Write-Host * Uploading the sppkg on the AppCatalog * -ForegroundColor Yellow
 Write-Host ***************************************** -ForegroundColor Yellow
