@@ -1,6 +1,7 @@
 #################
 # Configuration #
 #################
+dasdasdgasdg
 $catalogSite = "https://kpshuklasharepointlearning.sharepoint.com/sites/appcatalog" # => App Catalog site
 #######
 # End #
