@@ -11,10 +11,10 @@ export default class Solutiondevopstest extends React.Component<ISolutiondevopst
           <div className="${ styles.row }">
             <div className="${ styles.column }">
               <span className="${ styles.title }">Welcome to SharePoint Framework Solution Kalrav!2324q2 992342 775757 534 09234</span>
-              <p className="${ styles.subTitle }">This is master branch 5677567</p>
+              <p className="${ styles.subTitle }">This is master branch 5677567 esdgdsgsdgs</p>
               <p className="${ styles.subTitle }">Ravipark Apartment </p>
               <p className="${ styles.description }">${escape(this.props.description)}</p>
-              <p className="${ styles.description }">${escape(this.props.test)}</p>
+              <p className="${ styles.description }">${escape(this.props.test)}</p> 
               <p className="${ styles.description }">${this.props.test1}</p>
               <p className="${ styles.description }">${escape(this.props.test2)}</p>
             <p className="${ styles.description }">${this.props.test3}</p>
