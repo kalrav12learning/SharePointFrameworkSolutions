@@ -13,6 +13,6 @@
   },
   "externals": {},
   "localizedResources": {
-
+"SolutiondevopstestWebPartStrings": "./lib/webparts/solutiondevopstest/loc/{locale}.js"
   }
 }
